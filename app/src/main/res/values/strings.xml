@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">cobaKotlin</string>
+    <string name="text_view1">Select your car</string>
+    <string name="name">Name :</string>
+    <string name="txt_nama">Enter Your Name</string>
+    <string name="phone">Phone :</string>
+    <string name="txt_phone">Your Phone Number</string>
+    <string name="address">Address :</string>
+    <string name="txt_address">Your Address</string>
+</resources>
